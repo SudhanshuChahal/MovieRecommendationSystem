@@ -1,0 +1,21 @@
+scikit-learn   (For TF-IDF vectorization (content-based filtering), cosine similarity, and evaluation metrics.)
+
+pandas  (For data loading, cleaning, and preprocessing (e.g., handling CSV files like MovieLens ratings).
+
+numpy  (For numerical operations and matrix calculations.)
+
+scikit-surprise  (A Python library for building collaborative filtering models (e.g., KNN, SVD).)
+
+nltk  (for text preprocessing)
+
+lightfm  (Hybrid models (collaborative + content-based) for recommendation)
+
+tensorflow  (Neural Collaborative Filtering (advanced))
+
+keras  (For building custom neural networks)
+
+matplotlib  (analyze data )
+
+seaborn   (visualize results)
+
+flask   (For building a web application)
