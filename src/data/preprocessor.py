@@ -26,7 +26,7 @@ def clean_movies(movies_df):
     tfidf =TfidfVectorizer(stop_words='english')
     tfidf_matrix = tfidf.fit_transform(movies_clean['genres'].apply(lambda x: ' '.join(x)))
 
-    return movies_df,tfidf_matrix
+    return movies_clean,tfidf_matrix
 
 
 def merge_data(ratings_df, movies_df):
