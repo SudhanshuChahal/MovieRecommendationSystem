@@ -8,4 +8,6 @@
 1. download movies.csv file and ratings.csv file from https://grouplens.org/datasets/movielens/.
 2. then do exploratory data analysis in jupyter notebook.
 3. load data using pandas for both metadata as well as ratings.
-4. 
+4. then preprocess for both collaborative as well as content_based.
+5. create model using SVM/KNN.
+6. 
